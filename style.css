@@ -55,7 +55,9 @@ h2{
 
 .experience-area div{
     box-shadow: 5px 7px 40px gray;
-    height: 80%;
+    padding: 10px 40px;
+    border-radius: 5px;
+    height: 70%;
 }
 #full-stack{
     border-left: 7px solid tomato;
