@@ -50,17 +50,17 @@ h2{
     background-position: left;
 }
 .experience-area h3{
-    color: orange;
+    color: rgb(59, 49, 137);
 }
 
 .experience-area div{
     box-shadow: 5px 7px 40px gray;
     padding: 10px 40px;
     border-radius: 5px;
-    height: 70%;
+    height: 55%;
 }
 #full-stack{
-    border-left: 7px solid tomato;
+    border-left: 7px solid rgb(59, 49, 122);
 }
 #baby-web{
     border-left: 7px solid;
