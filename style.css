@@ -38,7 +38,7 @@ h1 span{
     height: 25%;
     width: 15%;
     right: 15%;
-    top: 5%;
+    top: 35%;
     position: absolute;
     object-fit: cover; /*magic*/
 }
@@ -46,7 +46,7 @@ h1 span{
     width: 10%;
     height: 18%;
     position: absolute;
-    right: 0;
+    right: 15%;
     object-fit: cover; /*magic*/
 
 }
@@ -67,6 +67,7 @@ p{
     background-repeat: no-repeat;
     background-position: right;
     margin-left: 5%;
+    width: 100%;
 
 }
 .end{
