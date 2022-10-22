@@ -35,9 +35,9 @@ h1 span{
 .pic-test2 img{
     width: 10%;
     height: 18%;
-    position: absolute;
-    left: 56%;
-    top: 0;
+    position: relative;
+    left: 40%;
+
     
 }
 .anchor-button{
