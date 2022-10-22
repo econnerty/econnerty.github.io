@@ -37,7 +37,7 @@ h1 span{
 .pic-test img{
     height: 25%;
     width: 15%;
-    left: 36%;
+    right: 15%;
     top: 5%;
     position: absolute;
     object-fit: cover; /*magic*/
@@ -45,8 +45,8 @@ h1 span{
 .pic-test2 img{
     width: 10%;
     height: 18%;
-    position: relative;
-    left: 40%;
+    position: absolute;
+    right: 0;
     object-fit: cover; /*magic*/
 
 }
