@@ -10,6 +10,11 @@ section{
 footer{
 
 }
+img {
+    max-width: 100%;
+    height: auto;
+    width: auto/9;
+}
 .top-banner{
     margin-left: 5%;
     width: 100%;
