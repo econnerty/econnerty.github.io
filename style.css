@@ -16,7 +16,7 @@ img {
     width: auto/9;
 }
 .top-banner{
-    margin-left: 5%;
+    margin-left: 0%;
     width: 100%;
 }
 .half-width{
@@ -38,7 +38,7 @@ h1 span{
     height: 25%;
     width: 15%;
     right: 15%;
-    top: 35%;
+    top: 31%;
     position: absolute;
     object-fit: cover; /*magic*/
 }
@@ -47,6 +47,7 @@ h1 span{
     height: 18%;
     position: absolute;
     right: 15%;
+    top: 10%;
     object-fit: cover; /*magic*/
 
 }
@@ -66,7 +67,7 @@ p{
     background-size: 5%;
     background-repeat: no-repeat;
     background-position: right;
-    margin-left: 5%;
+    margin-left: 0%;
     width: 100%;
 
 }
