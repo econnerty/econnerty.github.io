@@ -56,10 +56,7 @@ p{
 }
 .end{
     position: absolute;
-    justify-content: center;
-    align-items: center;
-    left: 33%;
-    top: 185%;
+    bottom: 0;
     
 }
 h2{
