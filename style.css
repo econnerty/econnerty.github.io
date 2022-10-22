@@ -81,6 +81,7 @@ h3{
     background-repeat: no-repeat;
     background-position: left;
     margin-left: 0%;
+    width: 100%;
 
 }
 .experience-area h3{
@@ -92,6 +93,7 @@ h3{
     padding: 10px 40px;
     border-radius: 5px;
     height: 85%;
+    width: 100%;
 }
 #full-stack{
     border-left: 7px solid rgb(251, 251, 251);
