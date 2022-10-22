@@ -11,12 +11,14 @@ footer{
 
 }
 .top-banner{
+    margin-left: 5%;
+    width: 100%;
 }
 .half-width{
-    width:35%;
+    width:100%;
     float: left;
     margin-left: 0%;
-    padding-left: 5%;
+    padding-left: 0%;
 }
 h1{
     font-size: 50px;
@@ -28,9 +30,12 @@ h1 span{
     width: 100%;
 }
 .pic-test img{
-    height: 8%;
+    height: 25%;
     width: 15%;
-    align-content: center;
+    left: 36%;
+    top: 5%;
+    position: absolute;
+    object-fit: cover; /*magic*/
 }
 .pic-test2 img{
     width: 10%;
@@ -56,6 +61,7 @@ p{
     background-size: 5%;
     background-repeat: no-repeat;
     background-position: right;
+    margin-left: 5%;
 
 }
 .end{
@@ -74,7 +80,7 @@ h3{
     background-image: url("images/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
-    margin-left: 1%;
+    margin-left: 0%;
 
 }
 .experience-area h3{
