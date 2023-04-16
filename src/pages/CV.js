@@ -174,6 +174,9 @@ const CV = () => {
           <Typography variant="body1">
             - Knowledgeable in natural language processing and computer vision techniques.
           </Typography>
+          <Typography variant="body1">
+            - Mobile app development. Particularly with React Native.
+          </Typography>
         </Grid>
         
         <Grid item xs={12}>
