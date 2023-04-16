@@ -20,7 +20,7 @@ const Navigation = () => {
   const [drawerOpen, setDrawerOpen] = useState(false);
 
   const appBarStyle = {
-    height: scrollPosition > 50 ? '64px' : '80px',
+    height: scrollPosition > 50 ? '90px' : '120px',
     transition: 'height 0.3s',
     boxShadow: scrollPosition > 50 ? '0 3px 5px rgba(0, 0, 0, 0.1)' : 'none',
   };
