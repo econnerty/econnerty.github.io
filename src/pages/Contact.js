@@ -14,7 +14,7 @@ const Contact = () => {
         <Typography variant="h2" gutterBottom sx={{ color: 'primary.main' }}>
           Contact
         </Typography>
-        <Typography variant="body1" sx={{ color: 'primary.main' }}>
+        <Typography variant="body2" sx={{ color: 'primary.secondary' }}>
           I'd love to hear from you! Feel free to reach out via email or connect with me on social media:
         </Typography>
         <Box mt={2}>

@@ -48,8 +48,9 @@ const Navigation = () => {
             fontFamily: '"Playfair Display", serif',
           }}
         >
-          Erik Connerty
+          Erik Connerty (Researcher)
         </Typography>
+        
         <Box
           sx={{
             display: { xs: 'block', sm: 'none' },

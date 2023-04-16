@@ -12,6 +12,14 @@ const theme = createTheme({
   },
   typography: {
     fontFamily: '"Roboto", "Helvetica", "Arial", sans-serif',
+    body1:{
+      fontSize: '1.2rem',
+      fontWeight: 400,
+    },
+    body2:{
+      fontSize: '1.2rem',
+      fontWeight: 500,
+    },
     h1: {
       fontSize: '2.5rem',
       fontWeight: 500,
@@ -25,12 +33,12 @@ const theme = createTheme({
       fontWeight: 500,
     },
     h4: {
-      fontSize: '1.2rem',
-      fontWeight: 600,
+      fontSize: '1.4rem',
+      fontWeight: 900,
     },
     h5: {
-        fontSize: '1.4rem',
-        fontWeight: 1000,
+        fontSize: '1.2rem',
+        fontWeight: 600,
     },
     subtitle1: {
         fontSize: '1.2rem',
