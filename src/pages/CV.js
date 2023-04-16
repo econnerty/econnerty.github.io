@@ -27,6 +27,25 @@ const CV = () => {
     
     Work Experience
     ---------------
+    Graduate Research Assistant
+    University of South Carolina 
+    Columbia, SC
+    May 2023 - Present
+    - Provide support and research expertise to USC - AI Institute
+    - Develop software to advance the field of Artificial Intelligence.
+
+    Undergraduate Research Assistant
+    University of South Carolina
+    Columbia, SC
+    August 2022 - May 2023
+    - Developed novel solutions to problems while working on the ICS project.
+
+    Undergraduate Teaching Assistant
+    University of South Carolina
+    Columbia, SC
+    August 2022 - December 2022
+    - Aided in the teaching and grading of the Course CSCE 201 (Introduction to Computer Security).
+
     Software Developer
     Tapestry Solutions
     Charleston,Sc
