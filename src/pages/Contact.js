@@ -10,7 +10,7 @@ const Contact = () => {
 
   return (
     <Container>
-      <Box mt={4}>
+      <Box paddingTop={10} mt={4}>
         <Typography variant="h2" gutterBottom sx={{ color: 'primary.main' }}>
           Contact
         </Typography>

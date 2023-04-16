@@ -56,8 +56,11 @@ const CV = () => {
   return (
     <Container>
       <Box mt={4} paddingTop={10}>
-        <Typography component={'pre'} variant="body1">
-            {cvContent}
+      <Typography variant="body1" component="pre" paragraph sx={{
+          fontSize: { xs: '14px', md: '16px' },
+          lineHeight: { xs: '20px', md: '24px' }
+        }}>
+          {cvContent}
         </Typography>
       </Box>
     </Container>

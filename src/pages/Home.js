@@ -5,10 +5,7 @@ import profilePicture from '../assets/profile_picture.jpg';
 const Home = () => {
   return (
     <Container>
-      <Box mt={4}>
-        <Typography variant="h2" gutterBottom>
-          Home
-        </Typography>
+      <Box paddingTop={10} mt={4}>
         <Grid container spacing={4}>
           <Grid item xs={12} md={4}>
             <Card>
