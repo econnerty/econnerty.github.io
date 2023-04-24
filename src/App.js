@@ -3,7 +3,8 @@ import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 import { ThemeProvider } from '@mui/material/styles';
 import Home from './pages/Home';
 import About from './pages/About';
-import Projects from './pages/Projects';
+import Research from './pages/Research';
+import Projects from './pages/Projects'
 import Contact from './pages/Contact';
 import CV from './pages/CV';
 import Navigation from './components/Navigation';
@@ -17,7 +18,8 @@ function App() {
         <Routes>
           <Route index path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
-          <Route path="/projects" element={<Projects />} />
+          <Route path="/research" element={<Research />} />
+          <Route path="/Projects" element={<Projects />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/CV" element={<CV />} />
         </Routes>

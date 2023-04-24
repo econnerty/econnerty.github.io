@@ -48,7 +48,7 @@ const Navigation = () => {
             fontFamily: '"Playfair Display", serif',
           }}
         >
-          Erik Connerty (Researcher)
+          Erik Connerty (Student/Researcher)
         </Typography>
         
         <Box
@@ -79,6 +79,9 @@ const Navigation = () => {
           </Button>
           <Button color="inherit" component={NavLink} to="/CV">
             CV
+          </Button>
+          <Button color="inherit" component={NavLink} to="/research">
+            Research
           </Button>
           <Button color="inherit" component={NavLink} to="/projects">
             Projects
