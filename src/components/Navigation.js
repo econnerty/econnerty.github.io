@@ -102,6 +102,9 @@ const Navigation = () => {
           <ListItem button component={NavLink} to="/CV" onClick={handleDrawerClose}>
             <ListItemText primary="CV" />
           </ListItem>
+          <ListItem button component={NavLink} to="/research" onClick={handleDrawerClose}>
+            <ListItemText primary="Research" />
+          </ListItem>
           <ListItem button component={NavLink} to="/projects" onClick={handleDrawerClose}>
             <ListItemText primary="Projects" />
           </ListItem>
