@@ -23,7 +23,7 @@ const Home = () => {
           <Grid item xs={12} md={8}>
             <Box display="flex" flexDirection="column" flex={1}>
               <Typography variant="body1">
-                Welcome to my personal website! I'm a Ph.D. student at the University of South Carolina, specializing in AI and biomedical computing research. My research focuses on machine learning, natural language processing, computer vision, and computers as medicine. I am dedicated to developing innovative algorithms and techniques to advance the field of AI.
+                Welcome to my personal website! I'm a Ph.D. student at the University of South Carolina, researching AI, Quantum Computing, and biomedical computing research. I am dedicated to developing innovative algorithms and techniques to advance the field of Computer Science.
               </Typography>
               <Box mt={4} flex={1}>
                 <Typography variant="h4" gutterBottom>
@@ -34,9 +34,8 @@ const Home = () => {
                 </Typography>
                 <ul>
                   <li>Artificial Intelligence (AGI)</li>
-                  <li>Medical applications of Computer Science</li>
-                  <li>The brain</li>
                   <li>Quantum Computing</li>
+                  <li>Medical applications of Computer Science</li>
                 </ul>
               </Box>
             </Box>
