@@ -3,7 +3,7 @@ import { createTheme } from '@mui/material/styles';
 const theme = createTheme({
   palette: {
     primary: {
-      main: '#02006F', // Garnet color
+      main: '#73000a', // Garnet color
       secondary: '#000000', // Light gray for contrast
     },
     secondary: {
