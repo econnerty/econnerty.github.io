@@ -48,7 +48,7 @@ const CV = () => {
               - Currently a Ph.D student being advised by Dr. Vignesh Narayanan.
             </Typography>
             <Typography variant="body2">
-              - Research intersects machine learning, natural language processing, computer vision, and medicine.
+              - Research intersects Artificial Intelligence and Quantum Computing.
             </Typography>
 
             {/* Bachelor of Science in Computer Science */}

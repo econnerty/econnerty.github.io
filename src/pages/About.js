@@ -10,7 +10,7 @@ const About = () => {
           About
         </Typography>
         <Typography variant="body1" paragraph>
-          I am 27 years old and was born and raised in South Carolina. I have been interested in technology and science from a young age, and have always wanted to make ideas from movies into reality. I hope to use the skills and knowledge I gain in the next few years to create novel solutions to problems that are currently being faced in the fields of AI and Medicine.
+          I am 27 years old and was born and raised in South Carolina. I have been interested in technology and science from a young age, and have always wanted to make ideas from movies into reality. I hope to use the skills and knowledge I gain in the next few years to create novel solutions to problems that are currently being faced in the fields of AI and Quantum Computing.
         </Typography>
       </Box>
       <Box
